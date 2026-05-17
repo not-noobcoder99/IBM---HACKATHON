@@ -276,43 +276,5 @@ npm run test:watch
 npm run lint
 ```
 
----
 
-## 🎓 Hackathon Submission
 
-**Event**: IBM Dev Day: Bob Edition (May 1-3, 2026)
-
-**Category**: AI-Native Development Tools
-
-**Highlights**:
-- Uses all 4 Bob modes appropriately
-- Integrates 2+ MCP servers
-- Solves real production problem
-- Full SDLC coverage (investigation → fix → test → PR)
-- Production-ready architecture
-
----
-
-## 📝 License
-
-MIT License - see [LICENSE](./LICENSE) file
-
----
-
-## 🙏 Acknowledgments
-
-- **IBM Bob** - For the incredible AI development platform
-- **MCP Community** - For the GitHub and Slack integrations
-- **PagerDuty** - For the webhook inspiration
-
----
-
-## 📞 Contact
-
-For questions or demo requests, reach out via GitHub Issues.
-
----
-
-**"DevOps Oracle gives engineers a fix to review, not a fire to fight."**
-
-*The 2AM panic is over.* 🌙✨
